@@ -1,4 +1,4 @@
-<div class="dropdown">
+<!-- <div class="dropdown">
     <div onclick="myFunction()" class="dropbtn">Museumobjekt<div style="float: right;"><i class="arrowDown"></i></div></div>
     <div id="myDropdown" class="dropdown-content">
         <?php
@@ -38,4 +38,4 @@ window.onclick = function(event) {
         }
     }
 }
-</script>
+</script> -->
